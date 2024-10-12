@@ -1,1 +1,8 @@
-
+<Severity> Minor </Severity>
+<Title> The capital.com is opened with 404 error in the `Shiba Inu price prediction: Can the meme coin stop the slide?` article after tapping the `DOGE` hyperlink </Title>
+<Precondition> 1. The app is downloaded 2. The app is launched
+<Steps> 1. Tap "Articles" icon 2. Tap the "Shiba Inu price prediction: Can the meme coin stop the slide?" tile 3. Scroll down to the "DOGE" hyperlink 4. Tap the "DOGE" hyperlink <Steps>
+<Expected_Result> The capital.com is opened with corresponding information <Expected_Result> 
+<Actual_Result> The page capital.com with error 404 is opened <Actual_Result>
+<Link/Attach> Screenshot <Link/Attach>
+<Reproduced/Not reproduced,nickname @TG, Environment> @Yuliaa2505 (iphone XR IOS 17.7) <Reproduced/Not reproduced,nickname @TG, Environment>
